@@ -1,0 +1,7 @@
+D:\Белько\ConsoleApp404040404004040400404\bin\Debug\ConsoleApp404040404004040400404.exe.config
+D:\Белько\ConsoleApp404040404004040400404\bin\Debug\ConsoleApp404040404004040400404.exe
+D:\Белько\ConsoleApp404040404004040400404\bin\Debug\ConsoleApp404040404004040400404.pdb
+D:\Белько\ConsoleApp404040404004040400404\obj\Debug\ConsoleApp404040404004040400404.csproj.AssemblyReference.cache
+D:\Белько\ConsoleApp404040404004040400404\obj\Debug\ConsoleApp404040404004040400404.csproj.CoreCompileInputs.cache
+D:\Белько\ConsoleApp404040404004040400404\obj\Debug\ConsoleApp404040404004040400404.exe
+D:\Белько\ConsoleApp404040404004040400404\obj\Debug\ConsoleApp404040404004040400404.pdb
